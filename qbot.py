@@ -186,4 +186,4 @@ async def resolveHost(domain: str):
 async def set_default_status():
     await bot.change_presence(game=discord.Game(name='noobs getting owned', type=3))
 
-bot.run('euIwRHVe_GX_mryCinCcU6dUDOLMtRG3')
+bot.run('')
